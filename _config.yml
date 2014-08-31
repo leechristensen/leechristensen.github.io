@@ -1,24 +1,24 @@
 # Dependencies
 markdown:         redcarpet
-pygments:         true
+highlighter:         true
 
 # Permalinks
 permalink:        pretty
 
 # Setup
-title:            Lee Christensen
-tagline:          'A collection of text'
-description:      'Musings on technology and security'
+title:            tifkin.net
+tagline:          'A place to hold the head drizzle...'
+description:      'asdf'
 url:              http://leechristensen.github.io/
 
 author:
   name:           'Lee Christensen'
-  url:            https://twitter.com/tifkin_
+  url:            https://tifkin.net
+  twitter:        https://twitter.com/tifkin_
+  github:         https://github.com/leechristensen
 
 paginate:         5
 
 # Custom vars
-version:          2.0.0
-
 github:
-  repo:           https://github.com/leechristensen/leechristensen.github.io/
+  repo:           https://github.com/leechristensen
