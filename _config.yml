@@ -1,0 +1,24 @@
+# Dependencies
+markdown:         redcarpet
+pygments:         true
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            Lee Christensen
+tagline:          'A collection of text'
+description:      'Musings on technology and security'
+url:              http://leechristensen.github.io/
+
+author:
+  name:           'Lee Christensen'
+  url:            https://twitter.com/tifkin_
+
+paginate:         5
+
+# Custom vars
+version:          2.0.0
+
+github:
+  repo:           https://github.com/leechristensen/leechristensen.github.io/
