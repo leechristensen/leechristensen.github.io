@@ -1,6 +1,7 @@
 ---
-title: 2014 US Cyber Challenge West CTF Write-up
 layout: post
+title: 2014 US Cyber Challenge West CTF Write-up
+comments: true
 ---
 
 I had quite a few questions about what my strategy was for getting so many points at this years CTF, so I though I'd give a little write-up here for the curious.  As some background, I attended USCC West last year (that was my first time doing a CTF) and also competed in [NCL](http://www.nationalcyberleague.org/index.shtml) last fall.  Both the USCC CTF and NCL used Threatspace as the CTF provider, so coming into this year's CTF I had a good idea of what it was going to be like.

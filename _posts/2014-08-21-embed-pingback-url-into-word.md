@@ -1,6 +1,7 @@
 ---
-title: Script to Embed a Pingback URL Into Word Documents
 layout: post
+title: Script to Embed a Pingback URL Into Word Documents
+comments: true
 ---
 A small python script that embeds a 1px image into XML-based Word documents (Word 2010+).  When a user downloads the word document and clicks “Enable Editing”, the pingback URL will be requested.
 
