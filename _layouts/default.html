@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en-us">
+<html lang="en-us">
 
   {% include head.html %}
 
@@ -13,7 +13,7 @@
       <div class="masthead">
         <div class="container">
           <h3 class="masthead-title">
-            <a href="/" title="Home">{{ site.title }}</a>
+            <a href="{{ site.baseurl }}/" title="Home">{{ site.title }}</a>
             <small>{{ site.tagline }}</small>
           </h3>
         </div>
@@ -21,8 +21,6 @@
 
       <div class="container content">
         {{ content }}
-		
-		{% include comments.html %}
       </div>
     </div>
 
@@ -45,6 +43,5 @@
         }, false);
       })(document);
     </script>
-    {% include google_analytics.html %}
   </body>
 </html>
